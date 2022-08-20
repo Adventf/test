@@ -1,0 +1,81 @@
+.kotak1 {
+  background-color: red;
+  height: 60px;
+  margin-left: 10%;
+  margin-right: 30px;
+  margin-bottom: 10px;
+  border-style: dashed;
+  width: 80%;
+}
+.kotak4 {
+  display: inline-block;
+  background-color: red;
+  margin-right: 10px;
+  width: 105px;
+  height: 20px;
+}
+.kotak5 {
+  display: inline-block;
+  background-color: red;
+  width: 105px;
+  height: 20px;
+  margin-right: 10px;
+}
+.kotak6 {
+  display: inline-block;
+  background-color: red;
+  width: 105px;
+  height: 20px;
+}
+.persegi-putih {
+  background-color: yellow;
+  width: 345px;
+  margin-top: 5px;
+  height: 30px;
+}
+.persegi {
+  margin-top: 60px;
+  margin-left: 9%;
+  background-color: black;
+  width: 350px;
+  padding: 2px;
+  height: 60px;
+}
+
+.circle1 {
+  display: flex;
+  position: relative;
+  background-color: red;
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+}
+.circle2 {
+  background-color: red;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
+.circle3 {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.kotak2 {
+  display: inline-block;
+  background-color: green;
+  height: 60px;
+  width: 22%;
+  margin-left: 10%;
+}
+
+.kotak3 {
+  display: flex;
+  position: relative;
+  background-color: blue;
+  height: 60px;
+  width: 57.5%;
+  margin-top: -65px;
+  margin-left: 33%;
+}
